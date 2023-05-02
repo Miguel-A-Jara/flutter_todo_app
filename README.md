@@ -17,6 +17,9 @@ flutter pub get
 ## Packages Used
 
 - go_router <https://pub.dev/packages/go_router>
+- provider <https://pub.dev/packages/provider>
+- flutter_form_builder <https://pub.dev/packages/flutter_form_builder>
+- shared_preferences <https://pub.dev/packages/shared_preferences>
 
 ---
 
@@ -29,3 +32,4 @@ flutter pub get
 - How to document code (JS Docs & Markdown like) <https://dart.dev/guides/language/effective-dart/documentation>
 - Curve Animation Examples: <https://api.flutter.dev/flutter/animation/Curves-class.html>
 - Animate between two different widgets: <https://api.flutter.dev/flutter/widgets/AnimatedSwitcher-class.html>
+- Nice video talking about flutter_form_builder <https://www.youtube.com/watch?v=eGwq3_0K_Sg&t=752s>
