@@ -1,0 +1,4 @@
+enum UserPreferencesKeys {
+  isDarkTheme,
+  todosList,
+}
